@@ -1,0 +1,24 @@
+Title: Python - GUI Programming - Tutorialspoint
+Link: https://www.tutorialspoint.com/python/python_gui_programming.htm#:~:text=Tkinter%20is%20the%20standard%20GUI,to%20the%20Tk%20GUI%20toolkit.
+
+Title: tkinter — Python interface to Tcl/Tk
+Link: https://docs.python.org/3/library/tkinter.html
+
+Title: Python GUI Programming With Tkinter
+Link: https://realpython.com/python-gui-tkinter/
+
+Title: Python GUI - tkinter
+Link: https://www.geeksforgeeks.org/python-gui-tkinter/
+
+Title: Tkinter
+Link: https://en.wikipedia.org/wiki/Tkinter
+
+Title: TkDocs Tutorial - Installing Tk
+Link: https://tkdocs.com/tutorial/install.html
+
+Title: Tkinter (GUI Programming) - Python Tutorial
+Link: https://pythonbasics.org/tkinter/
+
+Title: Create Python GUI with Tkinter
+Link: https://www.pythonguis.com/tutorials/create-gui-tkinter/
+
